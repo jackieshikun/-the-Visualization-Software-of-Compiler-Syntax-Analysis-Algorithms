@@ -1,0 +1,82 @@
+E-> T E'
+E'-> + T E' | ^
+T-> F T'
+T'-> * F T' | ^
+F-> ( E ) | id
+
+result :
+first(E) = first(T) = first(F) = { ( ,id }
+first(E') = {+, .}
+first(T') = {*, .}
+follow(E) = follow(E') = { ) , $ }
+follow(T) = follow(T') = {+,),$}
+follow(F) = {*,+,),$}
+
+input: id * id $
+
+S-> i E t S S' | a
+S'-> e S | ^
+E-> b
+
+result:
+first(S) = i,a
+first(S') = e,.
+first(E) = b
+follow(S) = follow(S') = e,$
+follow(E) = t
+
+input: i b t i b t a e a $
+
+S-> a A | b B
+A-> c A | d
+B-> c B | d
+
+E-> E + T | T 
+T-> T * F | F
+F-> P - F | P
+P-> ( E ) | i
+
+result:
+first(E) = first(T) = first(F) = first(P) = (, i
+follow(E) = $,+,)
+follow(T) = *,$,+,)
+follow(F) = ^,*,$.+
+
+S-> A B c
+A->a| ^
+B->b| ^
+first(S) = a,b,c
+first(A) = a,.
+first(B) = b,.
+follow(S) = $
+follow(A) = b,c
+follow(B) = c
+follow(P) = ^,*,$,+,)
+
+
+S'-> S
+S-> a A | b B
+A-> c A| d
+B-> c B | d
+
+input: a c d $
+
+SLR1
+
+E-> E + T | T
+T-> T * F | F
+F-> ( E ) | id
+
+input: id + id * id $
+
+LR1£º
+S-> C C
+C-> c C | d
+
+input: c d d $
+
+S-> L = R | R
+L-> * R | id
+R-> L
+
+

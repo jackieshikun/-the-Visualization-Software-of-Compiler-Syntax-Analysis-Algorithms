@@ -1,0 +1,24 @@
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.MainWindow.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LALR1Window.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LL1Window.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LR1Window.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.SLR1Window.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.FirstAndFollow.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LL1AnalyzeTable.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.SLR1Automaton.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.SLR1Table.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.SLR1Analyze.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LL1Table.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LR1Automaton.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LR1Table.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LR1Analyze.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LALR1Analyze.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LALR1Automaton.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.view.LALR1Table.resources
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\bin\Debug\syntax analysis.pdb
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\syntax analysis.pdb
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\bin\Debug\syntax analysis.dll.config
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\bin\Debug\syntax analysis.dll
+H:\毕业设计\C# learning\ConsoleApplication1\ConsoleApplication1\obj\Debug\syntax analysis.dll

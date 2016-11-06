@@ -1,0 +1,11 @@
+1.你可以在rule.txt文件中输入规则式，从而得到action和goto的分析表文件
+
+2.action和goto表的格式如下:
+	第0行和第0列代表closure名和转移符号的名字
+
+	每个符号用\t来分割
+	
+	action表中，首字母是r代表规约，s代表移进
+
+	action表中，ri E t S S'_S代表 iEtSS'规约成S符号 即用S->iEtSS'规则进行规约
+		    r_S 代表 S->空
